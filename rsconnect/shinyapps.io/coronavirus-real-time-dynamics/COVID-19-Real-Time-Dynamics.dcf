@@ -1,0 +1,13 @@
+name: COVID-19-Real-Time-Dynamics
+title: COVID-19-Real-Time-Dynamics
+username:
+account: coronavirus-real-time-dynamics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1965780
+bundleId: 3585664
+url: https://coronavirus-real-time-dynamics.shinyapps.io/COVID-19-Real-Time-Dynamics/
+when: 1599079585.50641
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: other files
